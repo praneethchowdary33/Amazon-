@@ -9,7 +9,8 @@
     padding: 20px; 
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;   
+    justify-content: space-evenly;
+    background-color:lightgray;   
 }
 
 .sub-main{
@@ -18,6 +19,7 @@
     justify-content: center;
     transition: 0.4s;
     animation: sub-main 1s;
+    background-color: white;
 }
 
 .sub-main:hover{
